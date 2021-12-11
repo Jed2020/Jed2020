@@ -1,6 +1,11 @@
 ### Hi there 👋 
 - Hi, my name is Emerson and I am a Analysis and Systems Development student at the Unicesumar - Universidade Cesumar.
 - My Website https://jed2020.github.io/. 
+<div align="center">
+  <a href="https://github.com/Jed2020">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jed2020&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jed2020&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!--
 **Jed2020/Jed2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
