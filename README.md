@@ -1,6 +1,6 @@
 ### Hi there 👋 
-Hi, my name is Emerson and I am a Analysis and Systems Development student at the Unicesumar - Universidade Cesumar.
-My Website https://jed2020.github.io/. 
+- Hi, my name is Emerson and I am a Analysis and Systems Development student at the Unicesumar - Universidade Cesumar.
+- My Website https://jed2020.github.io/. 
 <!--
 **Jed2020/Jed2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
