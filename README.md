@@ -3,6 +3,7 @@
 - [My Website](https://jed2020.github.io/).
 - 🌱 I’m currently learning Node, Reactjs, React Native.
 - 🔭 I’m currently finished a Trainee for two months(Oct-Dec/2021) in the [Wises](https://www.wises.com.br/), that i developed CRUD using JS, Node, Express, ReactJS, React Native, Mysql, see this project [Projeto Node](https://github.com/Jed2020/projeto-node).
+- 🤔 I’m looking for help with start a job in the TI area, but a i haven't work experience.
 <div align="center">
   <a href="https://github.com/Jed2020">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jed2020&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
